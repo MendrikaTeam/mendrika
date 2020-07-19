@@ -1,0 +1,11 @@
+{
+  "name": "mendrika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "python3 main.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
